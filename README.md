@@ -1,3 +1,18 @@
+![](https://i.imgur.com/waxVImv.png)
+### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7931E&width=435&lines=Hello%2C+I'm+Nho+Luong🇻🇳🇻🇳🇻🇳🇻🇳🇻)](https://git.io/typing-svg)
+
+# **About Me🇻**
+- ✍️ Blogger
+- ⚽ Football Player
+- ♾️ DevOps Engineer
+- ⭐ Open-source Contributor
+- 😄 Pronouns: Mr. Nho Luong
+- 📚 Lifelong Learner | Always exploring something new
+- 📫 How to reach me: luongutnho@hotmail.com
+
 # AI Landing Zone - Preview
 
 The AI Landing Zone provides an enterprise-scale production ready reference architecture with implementation (Portal, Bicep & Terraform) to deploy secure and resilient AI Apps & Agents solutions in Azure.
@@ -70,24 +85,18 @@ The AI landing Zone aligns with the guidance in the [CAF AI Scenario](https://le
 The AI landing Zone aligns with the guidance in the WAF AI workload. For a holistic implementation of the AI Landing Zone, we recommend to review the design methodology, principles and areas of [AI workloads on Azure](https://learn.microsoft.com/en-us/azure/well-architected/ai/).
 ![image](https://learn.microsoft.com/en-us/azure/well-architected/ai/images/ai-architecture-pattern.png)
 
-## Contributing
+![](https://i.imgur.com/waxVImv.png)
+# I'm are always open to your feedback🚀
+# **[Contact Me🇻]**
+* [Name: Nho Luong]
+* [Telegram](+84983630781)
+* [WhatsApp](+84983630781)
+* [PayPal.Me](https://www.paypal.com/paypalme/nholuongut)
+* [Linkedin](https://www.linkedin.com/in/nholuong/)
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+![](https://i.imgur.com/waxVImv.png)
+![](Donate.png)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
-
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
-
-## Trademarks
-
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+# License🇻
+* Nho Luong (c). All Rights Reserved.🌟
